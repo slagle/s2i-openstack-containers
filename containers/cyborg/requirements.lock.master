@@ -173,7 +173,7 @@ os-resource-classes==1.1.0
     # via
     #   -c upper-constraints.txt.master
     #   -r src/cyborg/requirements.txt
-os-service-types==1.8.2
+os-service-types==1.9.0
     # via
     #   -c upper-constraints.txt.master
     #   keystoneauth1

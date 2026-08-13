@@ -217,7 +217,7 @@ openstacksdk==4.18.0
     #   -r src/manila/requirements.txt
     #   osc-lib
     #   python-neutronclient
-os-service-types==1.8.2
+os-service-types==1.9.0
     # via
     #   -c upper-constraints.txt.master
     #   keystoneauth1
